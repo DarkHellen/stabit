@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567726148682",
+    "project_id": "stabit-cb2da",
+    "storage_bucket": "stabit-cb2da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567726148682:android:2895ce38a42418c7dd6ab3",
+        "android_client_info": {
+          "package_name": "com.example.stabit1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567726148682-2pnsdbq2kb3nuisdhaabdihf0odl5dj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYyRuC742zYrBI1iUZeixQZmaFl8I3KAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567726148682-2pnsdbq2kb3nuisdhaabdihf0odl5dj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
