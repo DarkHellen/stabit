@@ -43,41 +43,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCIWztQKWcQ2lzsK6OX1oj5PzCceuLrr04',
-    appId: '1:567726148682:web:f1c31428867692ecdd6ab3',
-    messagingSenderId: '567726148682',
-    projectId: 'stabit-cb2da',
-    authDomain: 'stabit-cb2da.firebaseapp.com',
-    storageBucket: 'stabit-cb2da.appspot.com',
-    measurementId: 'G-2XQG752X53',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCYyRuC742zYrBI1iUZeixQZmaFl8I3KAI',
-    appId: '1:567726148682:android:2895ce38a42418c7dd6ab3',
-    messagingSenderId: '567726148682',
-    projectId: 'stabit-cb2da',
-    storageBucket: 'stabit-cb2da.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCTfTF8yXnsF2BH3wkx94303encuELuGto',
-    appId: '1:567726148682:ios:f1fc69109b3dbfbedd6ab3',
-    messagingSenderId: '567726148682',
-    projectId: 'stabit-cb2da',
-    storageBucket: 'stabit-cb2da.appspot.com',
-    iosClientId: '567726148682-75jrfg7mibk2ldqi0amifno578ti7b8p.apps.googleusercontent.com',
-    iosBundleId: 'com.example.stabit1',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCTfTF8yXnsF2BH3wkx94303encuELuGto',
-    appId: '1:567726148682:ios:c93db91c9be662a1dd6ab3',
-    messagingSenderId: '567726148682',
-    projectId: 'stabit-cb2da',
-    storageBucket: 'stabit-cb2da.appspot.com',
-    iosClientId: '567726148682-0qe8i4avgesid554siq07ute5a59gcav.apps.googleusercontent.com',
-    iosBundleId: 'com.example.stabit1.RunnerTests',
-  );
+  
 }
