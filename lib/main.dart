@@ -15,7 +15,7 @@ void main() async {
   );
 
   Stripe.publishableKey =
-      "pk_test_51NseN9SBvfOft56wJ6AtKIaCsX0wtfAIaifeymHouzymKK4MnXNJvgHNI08XcWev6jExblAvG7JhFV4otahMmasm00aZrjhVXn";
+      "";
 
   await dotenv.load(fileName: "lib/assets/.env");
   runApp(const MyApp());
